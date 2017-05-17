@@ -1,9 +1,12 @@
 var request = require('request');
+var headers = {
+  "Content-Type": "application/json"
+}
 
 var options = {
   url: "WEBHOOK_URL",
   method:  "POST",
-  headers: "Content-Type": "application/json",
+  headers: headers,
   form: {"content": "@everyone oliver was here",
          "username": "Akeno",
          "avatar_url": "http://i.imgur.com/vYpVvfH.jpg"}
