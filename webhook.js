@@ -7,7 +7,7 @@ var options = {
   url: "WEBHOOK_URL",
   method:  "POST",
   headers: headers,
-  form: {"content": "@everyone <msg>", // ur able to send @everyone
+  form: {"content": "@everyone oliver was here",
          "username": "Akeno",
          "avatar_url": "http://i.imgur.com/vYpVvfH.jpg"}
 }
