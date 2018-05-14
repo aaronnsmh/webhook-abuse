@@ -4,10 +4,10 @@ var headers = {
 }
 
 var options = {
-  url: "https://discordapp.com/api/webhooks/445644098880143360/e7viBruFVVH1flFHrUFGPnxc__vutdGejVa_y4lj9TuPKga9SVHMaTy1Pm6XHOajhUMU",
+  url: "https://discordapp.com/api/webhooks/445656478486102029/n7Y-6snzXxzLYdzglKFof-Kk3O33BY6PVFxmXNWo6ahNQAXDyH6WAxc_Zi3jd2HPwFDr",
   method:  "POST",
   headers: headers,
-  form: {"content": "@everyone niggas im logan.",
+  form: {"content": "@everyone chat is movin so fast no one will see im gey.",
          "username": "Logan",
          "avatar_url": "https://www.famousbirthdays.com/headshots/connor-knowles-6.jpg"}
 }
