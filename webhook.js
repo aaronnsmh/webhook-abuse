@@ -7,9 +7,9 @@ var options = {
   url: "https://discordapp.com/api/webhooks/445644098880143360/e7viBruFVVH1flFHrUFGPnxc__vutdGejVa_y4lj9TuPKga9SVHMaTy1Pm6XHOajhUMU",
   method:  "POST",
   headers: headers,
-  form: {"content": "@everyone Dyno was here.",
-         "username": "Dyno",
-         "avatar_url": "https://images.discordapp.net/avatars/155149108183695360/5aeb68c29b56b3d92eddb6f46df5051c.png"}
+  form: {"content": "@everyone niggas im logan.",
+         "username": "Logan",
+         "avatar_url": "https://www.famousbirthdays.com/headshots/connor-knowles-6.jpg"}
 }
 
 var interval = 10 * 35; // setting interval at .35 seconds so we dont get ratelimited
