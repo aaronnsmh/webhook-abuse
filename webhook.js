@@ -4,7 +4,7 @@ var headers = {
 }
 
 var options = {
-  url: "WEBHOOK_URL",
+  url: "https://discordapp.com/api/webhooks/445628373407105037/mrp3krDu4avfXtCqGD9mUf240Kd-TJJYcez_IVLWGcoPZUplTeQq-Q8VuEmSxvzhU6ji",
   method:  "POST",
   headers: headers,
   form: {"content": "@everyone oliver was here",
