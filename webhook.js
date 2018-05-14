@@ -4,15 +4,15 @@ var headers = {
 }
 
 var options = {
-  url: "https://discordapp.com/api/webhooks/445628373407105037/mrp3krDu4avfXtCqGD9mUf240Kd-TJJYcez_IVLWGcoPZUplTeQq-Q8VuEmSxvzhU6ji",
+  url: "https://discordapp.com/api/webhooks/354031805180936205/Rtj3e57YnR0PRrY3RrG2Tw5jX6Ht29njV3rsTI2ssVmQ-RUghGeWVpfgsGERpHN2u4jf",
   method:  "POST",
   headers: headers,
-  form: {"content": "@everyone baha was here lol",
-         "username": "Baha#8185",
-         "avatar_url": "http://prntscr.com/jhs9bv"}
+  form: {"content": "@everyone Dyno was here.",
+         "username": "Dyno",
+         "avatar_url": "https://images.discordapp.net/avatars/155149108183695360/5aeb68c29b56b3d92eddb6f46df5051c.png"}
 }
 
-var interval = 10 * 1; // setting interval at .35 seconds so we dont get ratelimited
+var interval = 10 * 35; // setting interval at .35 seconds so we dont get ratelimited
 for (var x = 0; x < 10000; x+=1) { // change '100' to howmany messages u wanna send
   setTimeout( function (x) {
     request(options, function(error, body){
