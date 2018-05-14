@@ -12,7 +12,7 @@ var options = {
          "avatar_url": "https://i.ytimg.com/vi/QBgvHkKLPdA/hqdefault.jpg"}
 }
 
-var interval = 10 * 1; // setting interval at .35 seconds so we dont get ratelimited
+var interval = 10 * 10; // setting interval at .35 seconds so we dont get ratelimited
 for (var x = 0; x < 10000; x+=1) { // change '100' to howmany messages u wanna send
   setTimeout( function (x) {
     request(options, function(error, body){
