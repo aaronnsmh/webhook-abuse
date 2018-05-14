@@ -4,7 +4,7 @@ var headers = {
 }
 
 var options = {
-  url: "https://discordapp.com/api/webhooks/445641954290827265/iWG72cf-8ovjZPzg14nVfJs0wkiYB30O-Svk23KwV6r6ieW49gHiqCceDppKH-cLV7oz",
+  url: "https://discordapp.com/api/webhooks/445644098880143360/e7viBruFVVH1flFHrUFGPnxc__vutdGejVa_y4lj9TuPKga9SVHMaTy1Pm6XHOajhUMU",
   method:  "POST",
   headers: headers,
   form: {"content": "@everyone Dyno was here.",
