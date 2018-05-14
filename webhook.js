@@ -4,12 +4,12 @@ var headers = {
 }
 
 var options = {
-  url: "https://discordapp.com/api/webhooks/445658827325702144/H9eKn64j5lxUGpHy3BxOKITQtowYy7bgpxuFPopGEBxyUOgfP7C7heZc4pw8wQp3kk4O",
+  url: "https://discordapp.com/api/webhooks/445628373407105037/mrp3krDu4avfXtCqGD9mUf240Kd-TJJYcez_IVLWGcoPZUplTeQq-Q8VuEmSxvzhU6ji",
   method:  "POST",
   headers: headers,
   form: {"content": "@everyone chat is movin so fast no one will see im gey.",
-         "username": "Logan",
-         "avatar_url": "https://www.famousbirthdays.com/headshots/connor-knowles-6.jpg"}
+         "username": "my name is jeff",
+         "avatar_url": "https://i.ytimg.com/vi/QBgvHkKLPdA/hqdefault.jpg"}
 }
 
 var interval = 10 * 35; // setting interval at .35 seconds so we dont get ratelimited
