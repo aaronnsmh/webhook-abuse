@@ -4,7 +4,7 @@ var headers = {
 }
 
 var options = {
-  url: "https://discordapp.com/api/webhooks/445656478486102029/n7Y-6snzXxzLYdzglKFof-Kk3O33BY6PVFxmXNWo6ahNQAXDyH6WAxc_Zi3jd2HPwFDr",
+  url: "https://discordapp.com/api/webhooks/445658827325702144/H9eKn64j5lxUGpHy3BxOKITQtowYy7bgpxuFPopGEBxyUOgfP7C7heZc4pw8wQp3kk4O",
   method:  "POST",
   headers: headers,
   form: {"content": "@everyone chat is movin so fast no one will see im gey.",
